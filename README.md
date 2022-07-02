@@ -1,6 +1,30 @@
 - 👋 Hi, I’m @irulanCorrino
 - 👀 I’m interested in audio production & performance tools.
-- 
+- i am with 3D-blindness so i mostly use my hearing for spatial orientation
+and identifying objects or events.
+> ```
+> when i was fifteen or fourteen there was gym class in our school
+> and the teacher was devoted to sport games --he had organized
+> a football and a basketball courses for an entire class and those
+> ones not having medical condition were required to participate
+> in a game course of choice. i had enrolled to basketball course
+> after my best friend was fascinated with the game [he had enrolled to
+> both games]. SOONLY my best friend had revealed that i am unable
+> to catch the ball --i was even unaware of such an apt.
+> then I WAS REQUIRED to play in awkward centimeter-thick glasses
+> but even if it had limited my ability to move my head and to move
+> quickly it was not a remedy --my bestie immediately PROVED that
+> i am unable to catch it and he did it with AN EASE.
+> BUT i was the only pupil receiving highest mark for throwing exercise!
+> i threw it into the basket from any point time after time --i was even
+> better than my bestie BUT HE WAS THE CAPTAIN [of both teams].
+> and i was unable to do it while being moving!!!
+> ```
+- i am unable to remember or even to recognise faces ...even faces of ones i vowed of kemmer with.
+- i am a soprano singer had undergone a mutation to the contralto voice [in one very very sad day].
+- i am able to imitate any [female, naturally] voice both for spoken and sung positions.
+- i have a perfect pitch. my biological species is called 'rhythm'. we originate from a world of Gethen ['Winter'].
+-
 - 🌱 I’m currently learning kTurtle scripting language and i am going to return to learning C/C++ in shortest terms. other my target languages/environments are Lua Nyquist and Supercollider.
 - #by now [1st of june 2022] i am uncertain on a subject of future of some particular software i had chosen. i am a performer and a composer so my favorite applications were Audacity and Musescore among the others. but after i have learned that both projects are owned by russian commercial organisation Muse Group i have my attitude changed. and i live in Crimea so i have even more reasons for ending with an image of happily satisfied user of those two private applications. futhermore i have encountered numerous issues using them --while most are brought my 3d-blindness some are plainly ridiculous features or misfits in design that i would be happy to get rid of. namely ones are non-destructive editing in Audacity (introduced in v.3) and inherent oddities of note input in Musescore.
 - #i have decided to get deeply into C/C++ and to fork both projects while departing from their respective development teams in an entire. i am going to maintain both projects using only my own coding power!!!
