@@ -24,7 +24,79 @@ and identifying objects or events.
 - i am a soprano singer had undergone a mutation to the contralto voice [in one very very sad day].
 - i am able to imitate any [female, naturally] voice both for spoken and sung positions.
 - i have a perfect pitch. my biological species is called 'rhythm'. we originate from a world of Gethen ['Winter'].
--
+> ```
+> i have learned to read & write in six years. i was in first grade of primary school then.
+> the biggest problem in learning writing for me was in differentiating between shapes of [russian] letters.
+> i have encountered the same exact problem during learning to read already but this time
+> it was unsurmountable task. my biggest difficulty was in that i could not memorize spatial
+> orientation and a chirality of strokes! i have learned to read WITHOUT memorizing those two properties.
+> but in learning to write there was a person THAT CONTROLLED the character of my cognition!!!
+> she [the teacher] switched the pen from my left hand into the right one repeatedly and then
+> later was watching over me to keep me not rotating or mirroring the letters.
+>
+> the woman that adopted me ['mother'] kept a letter written to her by me from a rural ukrainian town
+> during summer rest months in august`s end. she was convinced that i made severe spelling mistakes
+> because of an illiteracy --i skipped letters in some words and substituted letters for similar ones...
+> but i always remember the days i was composing my [first] letter. it was happening either between
+> first and second school grades [in the age of seven; is the most probable case] or second and third grades.
+> i INTENTIONALLY skipped letters that i could not substitute with similarly written ones!!! [my teacher saw it too]
+> the crying example: '"apricotes" [are] ripening' (russian does not use the verb here) --it should be spelled
+> 'abrikosy pospeva<yu>t' but i have realized this like 'oriks pospivut'.
+>
+> the EXPLANATION:
+> russian script for 'a' & 'b' & 'y' ([ɯ], close back unrounded vowel) & 'e' (in this case
+> is identical to latin script) & '<yu>' (like in russian realisation of [ˈkʲʉrʲɪj] 'curium', near-close
+> central protruded vowel) IS EXTREMELY COMPLEX to read to me [even now] but in writing it is
+> something UNMEMORIZABLE and totally INVISIBLE
+>      [because (a) i do not see both horizontal (and no one can
+> know THE DISTANCE to them [sic]) and vertical STRAIGHT strokes (after my 3D-blindness)]
+> and particularly russian book fonts abuse straight edges(!!! 'bad furniture!') and strokes;
+>       and (b) because i rotate and mirror EVERYTHING I SEE since i remember myself as an organic being (that is
+> since my cells have begun the division not since a start of generation of my neural system);
+>       that yields (c) no reading ability to russian book fonts;
+>       and (d) no writing ability to russian handwriting because of its manner of attaching various
+> 'serifs' (curves) to similalarly identical 'o'-base for BOTH consonants and vowels!!!].
+>
+> SO how had 'abrikosy pospeva<yu>t' turned into 'oriks pospivut'?
+> russians teach to write 'a' as 'o' with a serif on the right BUT i cannot remember both ist right or left
+>             AND is its hook realised on the top stroke or bottom stroke part;
+>         so it is substituted with 'o' intentionally;
+> russian handwritten 'b' is looking like 'o' with [latin] 's'-curve attached to its top
+>             => i cannot memorize a place of the attachment [left or right?] and a chirality of the curve BOTH
+>             => i cannot SUBSTITUTE it with 'o' despite RUSSIANS DO TEACH to make in a manner they abuse
+>                for teaching making 'a' --IT IS A CONSONANT!!!
+>         so it is dropped;
+> russian 'y' is just too complex for a child [if you did see it you know; i cannot write it still]
+>         it is dropped as well;
+> 'e' is a special matter: i can SEE it with a comfort BUT i mirror and/or rotate it WITH A COMFORT!
+>             AND the teacher HAS FORBIDDEN me doing THAT strictly!
+>         i substituted 'i' for 'e' (it is ukrainian realisation this word!) AND russian 'i' is realised
+>         exactly like latin 'u' --i do not rotate it [only mirror, but in english ...'u' & 'n' ...you see];
+> and finally '<yu>' is something terrible in cyrillic scripts --i can tell you nothing about it
+>             --just take a look and you will know: 'кюрий'!!! can you imagine my REACTION on such object?
+>         i sustitute 'u' for '<yu>' [yes yes maybe still do] --it is nicely aligning with the pronunciation
+>         AND it is realised like latin 'y' that is not a problem for me:D :Q :E :P :K --i rotate it and
+>         i mirror it FREELY but it is looking SO FRIENDLY in a handwriting!!!
+>
+> you may ask 'why is it not "abrikosy" but "oriks"?' 'where is "o"?'
+> well ...it is A MISTAKE! do not do 'THINK TWICE'!!! ['boundaries double checking --clever but broken!']
+> after substituting 'o' for 'a' AND dropping 'b' for resembling 'o'-if-not-posessing-the-serif
+> i SIMPLY FAIL to write 'o' ONCE AGAIN!!! [INTENTIONALLY --'kernel panics do you know?']
+>
+> in six grade of middle school (our class had skipped initial fifth grade) that trouble was STILL SIGNIFICANT
+> to me --but there were calligraphy lessons [i changed the school since second grade and the teacher
+> in middle school (responsible for our class) was third woman-teacher already].
+> she tought ukrainian in the school and was responsible for our calligraphy in russian handwriting as well.
+> i had THE LOWEST MARK...
+> [and the highest mark for both ukrainian literature and syntax with grammar and orthography]
+> i was scolded for heavily styling my handriting to triangles and especially for substituting the dot
+> over 'i' with 'a HYPHEN!' in ninth or tenth grade by the same person again.
+>
+> it has disappeared when i have started to write IN ENGLISH only!!!
+> [my handwriting is styled to a triangle oftenly]
+>
+> ```
+- 
 - 🌱 I’m currently learning kTurtle scripting language and i am going to return to learning C/C++ in shortest terms. other my target languages/environments are Lua Nyquist and Supercollider.
 - #by now [1st of june 2022] i am uncertain on a subject of future of some particular software i had chosen. i am a performer and a composer so my favorite applications were Audacity and Musescore among the others. but after i have learned that both projects are owned by russian commercial organisation Muse Group i have my attitude changed. and i live in Crimea so i have even more reasons for ending with an image of happily satisfied user of those two private applications. futhermore i have encountered numerous issues using them --while most are brought my 3d-blindness some are plainly ridiculous features or misfits in design that i would be happy to get rid of. namely ones are non-destructive editing in Audacity (introduced in v.3) and inherent oddities of note input in Musescore.
 - #i have decided to get deeply into C/C++ and to fork both projects while departing from their respective development teams in an entire. i am going to maintain both projects using only my own coding power!!!
