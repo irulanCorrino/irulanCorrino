@@ -96,6 +96,9 @@ and identifying objects or events.
 > [my handwriting is styled to a triangle oftenly]
 >
 > ```
+- oh... just have realised that. there was `'a'` in that russian `'pospeva<yu>t'`. so what to do now?
+- `"but i wrote it down in my notes, don juan."`
+- `"you may write whatever you want, but don't tell me i said that."`
 - 
 - 🌱 I’m currently learning kTurtle scripting language and i am going to return to learning C/C++ in shortest terms. other my target languages/environments are Lua Nyquist and Supercollider.
 - #by now [1st of june 2022] i am uncertain on a subject of future of some particular software i had chosen. i am a performer and a composer so my favorite applications were Audacity and Musescore among the others. but after i have learned that both projects are owned by russian commercial organisation Muse Group i have my attitude changed. and i live in Crimea so i have even more reasons for ending with an image of happily satisfied user of those two private applications. futhermore i have encountered numerous issues using them --while most are brought my 3d-blindness some are plainly ridiculous features or misfits in design that i would be happy to get rid of. namely ones are non-destructive editing in Audacity (introduced in v.3) and inherent oddities of note input in Musescore.
