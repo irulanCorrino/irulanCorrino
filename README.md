@@ -106,6 +106,41 @@ and identifying objects or events.
 - #there is an issue i have encountered while studying Nyquist: i am not sure it is good for me... there are pros for keeping it in Audacity (it is a thing and it is working) but there are cons i cannot take: a. it has non-transparent syntax [i am not a fan of LISP but i accept Scheme however]; b. it is undermaintained if not an abandonware as i have found while encountering a reference to MS Windows 95/98 in its manual that mentioned some troubles with IDE's shell; c. '[...]and viola!, we have Nyquist control constructs in SAL even though SAL is completely unaware that seqrep is actually a special form.' ...and i am not sure if i would be able to use something else in a place of it even if trying making a Scheme module.
 - #i have chosen EFL/Enlightenment for a toolkit and i am going to switch to Wayland in time with EFL.
 - @i have tried Enlightenment[^1] after installing arch linux on my older laptop --i am very disappointed by a fact that this window manager had had no improvements IN NINE YEARS! i used ubuntu-based bodhi linux back then and it had so many issues that i had switched to official ubuntu flavour; now i have decided to deprecate ALL GUI/widget TOOLKITS and to learn c/c++ programming deeper for making all the interface stuff by myself. [i use xfce4 as my desktop environment now --it never disappointed me during years i used it in ubuntuStudio me even if being not friendly to a user with 3D-blindness like me]
+
+- ##[11th of july 2022] for many years i was convinced that i should
+`watch TV` --that is `learn C++`. i was led to believe that a sufficiently
+well knowledge of it would be a sign of having good coding skills.
+even encountering broken code at wikipedia tutorials i supposed that
+was an issue of a primer not of the language itself.
+i cannot recollect where exactly i had met the instruction to use C++
+for making user interfaces if coding an application in C: it might be
+read in one of learning books from QNX i studied in year-tenth-ago or
+most probably i had picked it from some wikipedia article that was
+rewritten multiple times during these years.
+now i understand that even if they declare their software as being free
+most of so-called IT professionals are interested only in getting money
+from selling their software. they cannot be perfect coders then.
+but they DO code in C++!
+i have found `www.suckless.org` tonight and while they are seemingly allies
+for a natty coder like me they are not! having a front page describing
+their apparently impeccable philosophy they as well have a list of 'sucks'
+[that i do not want to discuss here] and a list of 'rocks' and it is
+where it becomes obvious they are telling things they do not know about.
+they worship some quiet obscure OS called Plan 9 but its development
+had stopped in year-seventh-ago and it is not a major issue for me still.
+firstly: they recommend MUSL that had critical flaw in memory allocation
+for years [source: wikipedia]; and then at the end of list is xzoom that i used
+to have while using Socialism Studio 20.04. it is REALLY BAD piece of
+an abandonware.
+- @@that was said by a different person that has changed my mindset.
+i believe to linus not wikipedia or QNX Corp. or suckless guys.
+C++ is really bad. and i would develop my GUI in C.
+
+- @@i do not comprehend `classes` even if encountered them ten years ago.
+i understand C's `structs` well... but classes were something non-transparent
+for me in wikipedia primers. i guess would not need any of C++ features.
+i just want clean neo-baroque code and full integration of GUI with the logic.
+
 - 💞️ I’m looking to collaborate on development of Pipewire sound server [is not valid assertion anylonger --see below]
 - #...and now [2nd of june 2022] i consider stopping using my computers for my musical practice in an entire --i have installed pipewire and have managed to make it working despite all of tribulations posed by systemd ...and seeing 'rtkit module error' i have stopped the service! so it does not start anymore. it just tells about start attempts count limit again and again.
 
