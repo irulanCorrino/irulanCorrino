@@ -100,7 +100,7 @@ and identifying objects or events.
 - `"but i wrote it down in my notes, don juan."`
 - `"you may write whatever you want, but don't tell me i said that."`
 - 
-- 🌱 I’m currently learning kTurtle scripting language and i am going to return to learning C/C++ in shortest terms. other my target languages/environments are Lua Nyquist and Supercollider.
+- 🌱 I’m currently learning kTurtle scripting language and i am going to return to learning C /* [and] C++ —is not valuable anymore, see below */ in shortest terms. other my target languages/environments are Lua, Nyquist [i am considering porting it to Scheme] and Supercollider.
 - #by now [1st of june 2022] i am uncertain on a subject of future of some particular software i had chosen. i am a performer and a composer so my favorite applications were Audacity and Musescore among the others. but after i have learned that both projects are owned by russian commercial organisation Muse Group i have my attitude changed. and i live in Crimea so i have even more reasons for ending with an image of happily satisfied user of those two private applications. futhermore i have encountered numerous issues using them --while most are brought my 3d-blindness some are plainly ridiculous features or misfits in design that i would be happy to get rid of. namely ones are non-destructive editing in Audacity (introduced in v.3) and inherent oddities of note input in Musescore.
 - #i have decided to get deeply into C/C++ and to fork both projects while departing from their respective development teams in an entire. i am going to maintain both projects using only my own coding power!!!
 - #there is an issue i have encountered while studying Nyquist: i am not sure it is good for me... there are pros for keeping it in Audacity (it is a thing and it is working) but there are cons i cannot take: a. it has non-transparent syntax [i am not a fan of LISP but i accept Scheme however]; b. it is undermaintained if not an abandonware as i have found while encountering a reference to MS Windows 95/98 in its manual that mentioned some troubles with IDE's shell; c. '[...]and viola!, we have Nyquist control constructs in SAL even though SAL is completely unaware that seqrep is actually a special form.' ...and i am not sure if i would be able to use something else in a place of it even if trying making a Scheme module.
@@ -144,9 +144,17 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 - 💞️ I’m looking to collaborate on development of Pipewire sound server [is not valid assertion anylonger --see below]
 - #...and now [2nd of june 2022] i consider stopping using my computers for my musical practice in an entire --i have installed pipewire and have managed to make it working despite all of tribulations posed by systemd ...and seeing 'rtkit module error' i have stopped the service! so it does not start anymore. it just tells about start attempts count limit again and again.
 
-- @i am required to keep pipewire installed even if not being fascinated with it anymore --to keep it just as a vestigial organ of systemd and pulseaudio. if needed i would learn alsa internals [@kernel.org] and would convert all my stuff to pure alsa interfacing [i bet i need it because while i used ubuntustudio (lowlatency not realtime) audacity was not able to make a recording longer than two or even one minutes without jack server running --i refuse to use jackd as well]
+- @i am required to keep pipewire installed even if not being fascinated with it anymore --to keep it just as a vestigial organ of systemd and pulseaudio. if needed i would learn alsa internals [@kernel.org] and would convert all my stuff to pure alsa interfacing [i bet i need it because while i used ubuntustudio (lowlatency not realtime) audacity was not able to make a recording longer than two or even one minutes without jack server running --i refuse to use jackd as well /* see below for an update */]
 
 - @i to tried to register at arch linux forums for getting a help but they do not offer help --they only give ADVICES. and that does violate my shifgrethor. i shall play music without you
+#### updated in december 2022
++ i am using Artix linux
++ i am using OpenRC
++ i am trying to get XFCE working [have some crashing] while using Plasma in another laptop
++ i am happy with jack2 and going to study ALSA as promised
++ i am making a repository containing audacity-2-4-2 [and porting it to GPL-v3.0]
++ i am reading K&R 'The C Programming Language'
++ i am developing my fork of audacity targeting a guitarist/performer
 ---
 - 📫 How to reach me ?.. :D oh it is REALLY difficult --i dedicate most of my time to learning and performing music so i have virtually no time to socialising...
 ---
