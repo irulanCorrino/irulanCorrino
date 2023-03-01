@@ -100,7 +100,7 @@ and identifying objects or events.
 - `"but i wrote it down in my notes, don juan."`
 - `"you may write whatever you want, but don't tell me i said that."`
 - 
-- 🌱 I’m currently learning kTurtle scripting language and i am going to return to learning C /* [and] C++ —is not valuable anymore, see below */ in shortest terms. other my target languages/environments are Lua, Nyquist [i am considering porting it to Scheme] and Supercollider.
+- 🌱 I’m currently learning kTurtle scripting language and i am going to return to learning C /* [and] C++ —is not valuable anymore, see below */ in shortest terms. other my target languages/environments are Lua, Nyquist [i am considering porting it to Scheme] [1st of March, 2023] /* [and] Supercollider —i was interested in it since i did not consider its implementation language, C++, as being of inferior quality, but now i am not fascinated with either of them anymore] */. i do like Rust and i would like to learn it, but i am currently studying C and i cannot switch between them, additionally Rust has less transparent semantics having much higher level of abstraction —i could not get into C++ because of its raffinated phony, but+ i cannot grasp Rust’s concepts because they are too complex too me. i DO LOVE Assembly and i learned IBM S/360 Assembly many years ago, now i am going to continue, but with x86_64 arch, it is a big hope for me.
 - #by now [1st of june 2022] i am uncertain on a subject of future of some particular software i had chosen. i am a performer and a composer so my favorite applications were Audacity and Musescore among the others. but after i have learned that both projects are owned by russian commercial organisation Muse Group i have my attitude changed. and i live in Crimea so i have even more reasons for ending with an image of happily satisfied user of those two private applications. futhermore i have encountered numerous issues using them --while most are brought my 3d-blindness some are plainly ridiculous features or misfits in design that i would be happy to get rid of. namely ones are non-destructive editing in Audacity (introduced in v.3) and inherent oddities of note input in Musescore.
 - #i have decided to get deeply into C/C++ and to fork both projects while departing from their respective development teams in an entire. i am going to maintain both projects using only my own coding power!!!
 - #there is an issue i have encountered while studying Nyquist: i am not sure it is good for me... there are pros for keeping it in Audacity (it is a thing and it is working) but there are cons i cannot take: a. it has non-transparent syntax [i am not a fan of LISP but i accept Scheme however]; b. it is undermaintained if not an abandonware as i have found while encountering a reference to MS Windows 95/98 in its manual that mentioned some troubles with IDE's shell; c. '[...]and viola!, we have Nyquist control constructs in SAL even though SAL is completely unaware that seqrep is actually a special form.' ...and i am not sure if i would be able to use something else in a place of it even if trying making a Scheme module.
@@ -155,6 +155,12 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 + i am making a repository containing audacity-2-4-2 [and porting it to GPL-v3.0]
 + i am reading K&R 'The C Programming Language'
 + i am developing my fork of audacity targeting a guitarist/performer
+#### updated at 1st of March, 2023
++ my first computer is seemingly OK with XFCE by now, but we need more time to make sure
++ the repository containing audacity-2-4-2 is completed, but i want a little more
++ i design new type of GUI —'Slacker' —a kinda hybrid of WIMP and zooming interface, targeting 3d‑blind or anandamide‑high users [belonging to my species]
++ i am making exercises from K&R book
++ i had had a fifth metacarpal fracture @20220913 and it has ruined my guitar techniques. i am taking large doses [2*2*120000SPU] of serrapeptase for some two months, but i have bad tendon tethering still
 ---
 - 📫 How to reach me ?.. :D oh it is REALLY difficult --i dedicate most of my time to learning and performing music so i have virtually no time to socialising...
 ---
