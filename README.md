@@ -161,10 +161,10 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 + the repository containing audacity-2-4-2 is completed, but i want a little more
 + i design new type of GUI —'Slacker' —a kinda hybrid of WIMP and zooming interface, targeting 3d‑blind or anandamide‑high users [belonging[^2] to my species]
 + i am making exercises from K&R book
-+ i had had a fifth metacarpal fracture @20220913 and it has ruined my guitar techniques. i am taking large doses [2*2*120000SPU] of serrapeptase for some two months, but i have bad tendon tethering still
++ i had had a fifth metacarpal fracture @20220913 and it has ruined my guitar techniques. i am taking large doses [2x2x120000SPU] of serrapeptase for some two months, but i have bad tendon tethering still
 #### updated @20230302 THE WORST SITUATION I EVER GET IN
 - now i have taken my psilocybe mushrooms and i have gotten high
-- i was singing whole evening and i have realised i have not told something critical about+ us
+- i was singing whole evening and i have realised i have not told something critical about us
 - we are different from human species. we have a trait, and i am a representative species, that is a real killer for homo sapiens
 - WHEN i was studying music officially in a school run by the state, i was taught something godawful —but i was cheating, i failed
 - i was studying alto sax. the teacher thought he is OK with drilling me into it.
@@ -172,6 +172,10 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 - music does not need a counting
 - that is why i am unemployed
 - i am a perfectionist
+#### updated at 7th of July, 2023
+- i do not want to die, certainly; but every little trouble breaks me
+- i feel like i am dying when it is happening
+- I SHALL NEVER RECOVER
 ---
 - 📫 How to reach me ?.. :D oh it is REALLY difficult --i dedicate most of my time to learning and performing music so i have virtually no time to socialising...
 ---
