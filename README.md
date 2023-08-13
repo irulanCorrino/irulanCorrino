@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @irulanCorrino
+<img align="right" width="18%" alt="2023-08-13 13.48.16 my given mother is an interior designer" title="you must write ONLY (!) clean code [my given mother designed this bathroom]" src="https://github.com/irulanCorrino/irulanCorrino/assets/98284211/63f7aaed-5827-4919-8439-0a8e5cb1f3ee">
+
 - 👀 I’m interested in audio production & performance tools.
 - i am with 3D-blindness so i mostly use my hearing for spatial orientation
 and identifying objects or events.
