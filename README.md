@@ -183,18 +183,18 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 - i am getting better with Scheme and it makes me liking XLisp miraculously
 - i am reading "Effective C", less of K&R
 - FUTURE:
-  - Ynnwn ['Rhythm'] are not going to adopt human‑targeting guidelines of good programming manners; say, Rust is developing while/by targeting human[3^] programmers which cannot have native grasp of tri‑state logic [that makes Ynnwn the native programmers species]
+  - Ynnwn ['Rhythm'] are not going to adopt human‑targeting guidelines of good programming manners; say, Rust is developing while/by targeting human[^3] programmers which cannot have native grasp of tri‑state logic [that makes Ynnwn the native programmers species]
   - i am sure that it is a huge mistake of Linus to accept this unreadable and jealous programming language into linux kernel
   - i am not going to trade C for Rust just because human programmers cannot build performant tree‑visualisation of their code
   - perceived 'safety' of Rust is a bogus trait —a position of assemblage point determines your image of reality, and in 'safe' and, surely, comfortable first attention you get nothing but an uglish human‑like remnant of true seer
-  - my biological species are the least numbered [of all four] species in Universe and the only species inheriting 3D‑blindness and anandamide‑high genetic makeup[4^] [a so‑called 'weaver phenotype']
+  - my biological species are the least numbered [of all four] species in Universe and the only species inheriting 3D‑blindness and anandamide‑high genetic makeup[^4] [a so‑called 'weaver phenotype']
 ---
 - 📫 How to reach me ?.. :D oh it is REALLY difficult --i dedicate most of my time to learning and performing music so i have virtually no time to socialising...
 ---
 [^1]: being a Handdarra follower i am sure that there is no such state as enlightenment; we practise trance and untrance ['presence'] but reject a notion of ANY CHANGES in a state
 [^2]: those two features are destructive to human species but are required for a survival of my biological species, gethenians, i may add another trait [i suspect i have it myself] —`[Volkswagen]` VW syndrome
-[3^]: root: Human ['Love'] species
-[4^]: i was developing other scheme [sic] of genetic trait encoding years ago, but had stopped since because of difficulty to do things like associating 3D‑blindness with blocked anandamide‑reducing ferment expression and VW‑syndrome or associating bioluminescent eye color with albeno hair
+[^3]: root: Human ['Love'] species
+[^4]: i was developing other scheme [sic] of genetic trait encoding years ago, but had stopped since because of difficulty to do things like associating 3D‑blindness with blocked anandamide‑reducing ferment expression and VW‑syndrome or associating bioluminescent eye color with albeno hair
 <!---
 irulanCorrino/irulanCorrino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
