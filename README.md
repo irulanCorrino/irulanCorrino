@@ -103,7 +103,7 @@ and identifying objects or events.
 - `"you may write whatever you want, but don't tell me i said that."`
 - 
 - 🌱 I’m currently learning kTurtle scripting language and i am going to return to learning C /* [and] C++ —is not valuable anymore, see below */ in shortest terms. other my target languages/environments are Lua, Nyquist [i am considering porting it to Scheme] `[1st of March, 2023] /* [and] Supercollider —i was interested in it since i did not consider its implementation language, C++, as being of inferior quality, but now i am not fascinated with either of them anymore] */`. i do like Rust and i would like to learn it, but i am currently studying C and i cannot switch between them, additionally Rust has less transparent semantics having much higher level of abstraction —i could not get into C++ because of its raffinated phony, but i cannot grasp Rust’s concepts because they are too complex to me. i DO LOVE Assembly and i learned IBM S/360 Assembly many years ago, now i am going to continue, but with x86_64 arch, and it is a big hope for me.
-- #by now [1st of june 2022] i am uncertain on a subject of future of some particular software i had chosen. i am a performer and a composer so my favorite applications were Audacity and Musescore among the others. but after i have learned that both projects are owned by russian commercial organisation Muse Group i have my attitude changed. and i live in Crimea so i have even more reasons for ending with an image of happily satisfied user of those two private applications. futhermore i have encountered numerous issues using them --while most are brought my 3d-blindness some are plainly ridiculous features or misfits in design that i would be happy to get rid of. namely ones are non-destructive editing in Audacity (introduced in v.3) and inherent oddities of note input in Musescore.
+- #by now [1st of june 2022] i am uncertain on a subject of future of some particular software i had chosen. i am a performer and a composer so my favorite applications were Audacity and Musescore among the others. but after i have learned that both projects are owned by russian commercial organisation Muse Group i have my attitude changed. and i live in Crimea so i have even more reasons for ending with an image of happily satisfied user of those two private applications. futhermore i have encountered numerous issues using them --while most are brought by my 3d-blindness some are plainly ridiculous features or misfits in design that i would be happy to get rid of. namely ones are non-destructive editing in Audacity (introduced in v.3) and inherent oddities of note input in Musescore.
 - #i have decided to get deeply into C/C++ `[no no no, not C++ —look below]` and to fork [maybe even] both projects while departing from their respective development teams in an entire. i am going to maintain both projects using only my own coding power!!!
 - #there is an issue i have encountered while studying Nyquist: i am not sure it is good for me... there are pros for keeping it in Audacity (it is a thing and it is working) but there are cons i cannot take: a. it has non-transparent syntax [i am not a fan of LISP but i accept Scheme however]; b. it is undermaintained if not an abandonware as i have found while encountering a reference to MS Windows 95/98 in its manual that mentioned some troubles with IDE's shell; c. '[...]and viola!, we have Nyquist control constructs in SAL even though SAL is completely unaware that seqrep is actually a special form.' ...and i am not sure if i would be able to use something else in a place of it even if trying making a Scheme module.
 - #i have chosen EFL/Enlightenment for a toolkit and i am going to switch to Wayland in time with EFL.
@@ -178,11 +178,23 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 - i do not want to die, certainly; but every little trouble breaks me
 - i feel like i am dying when it is happening
 - I SHALL NEVER RECOVER
+#### 21st of August, 2023. FUTURE
+- i had buried Plasma DE long ago; i am not happy with jack2(and++) anymore, my newer version of my system is seemingly doing well with pure ALSA [i use SSDs now, simply], wanting to remove PortAudio from Audacity
+- i am getting better with Scheme and it makes me liking XLisp miraculously
+- i am reading "Effective C", less of K&R
+- FUTURE:
+  - Ynnwn ['Rhythm'] are not going to adopt human‑targeting guidelines of good programming manners; say, Rust is developing while/by targeting human[3^] programmers which cannot have native grasp of tri‑state logic [that makes Ynnwn the native programmers species]
+  - i am sure that it is a huge mistake of Linus to accept this unreadable and jealous programming language into linux kernel
+  - i am not going to trade C for Rust just because human programmers cannot build performant tree‑visualisation of their code
+  - perceived 'safety' of Rust is a bogus trait —a position of assemblage point determines your image of reality, and in 'safe' and, surely, comfortable first attention you get nothing but an uglish human‑like remnant of true seer
+  - my biological species are the least numbered [of all four] species in Universe and the only species inheriting 3D‑blindness and anandamide‑high genetic makeup[4^] [a so‑called 'weaver phenotype']
 ---
 - 📫 How to reach me ?.. :D oh it is REALLY difficult --i dedicate most of my time to learning and performing music so i have virtually no time to socialising...
 ---
 [^1]: being a Handdarra follower i am sure that there is no such state as enlightenment; we practise trance and untrance ['presence'] but reject a notion of ANY CHANGES in a state
 [^2]: those two features are destructive to human species but are required for a survival of my biological species, gethenians, i may add another trait [i suspect i have it myself] —`[Volkswagen]` VW syndrome
+[3^]: root: Human ['Love'] species
+[4^]: i was developing other scheme [sic] of genetic trait encoding years ago, but had stopped since because of difficulty to do things like associating 3D‑blindness with blocked anandamide‑reducing ferment expression and VW‑syndrome or associating bioluminescent eye color with albeno hair
 <!---
 irulanCorrino/irulanCorrino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
