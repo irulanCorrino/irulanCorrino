@@ -217,7 +217,7 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 [^2]: those two features are destructive to human species but are required for a survival of my biological species, gethenians, i may add another trait [i suspect i have it myself] —`[Volkswagen]` VW syndrome
 [^3]: root: Human ['Love'] species
 [^4]: i was developing other scheme [sic] of genetic trait encoding years ago, but had stopped since because of difficulty to do things like associating 3D‑blindness with blocked anandamide‑reducing ferment expression and VW‑syndrome or associating bioluminescent eye color with albeno hair
-[^5]: i use Google Translator for several months since my given father had beaten me after her provocation again
+[^5]: using gestures to explain her what i need, she loaths this; and i use Google Translator to speak to her with its synthesised female voice for several months since my given father had beaten me after her provocation again
 <!---
 irulanCorrino/irulanCorrino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
