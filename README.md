@@ -188,6 +188,28 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
   - i am not going to trade C for Rust just because human programmers cannot build performant tree‑visualisation of their code
   - perceived 'safety' of Rust is a bogus trait —a position of assemblage point determines your image of reality, and in 'safe' and, surely, comfortable first attention you get nothing but an uglish human‑like remnant of true seer
   - my biological species are the least numbered [of all four] species in Universe and the only species inheriting 3D‑blindness and anandamide‑high genetic makeup[^4] [a so‑called 'weaver phenotype']
+#### 6th of September, 7.58am
+
+<p align="center">
+ <img width="18%" alt="she does such things intentionally 20230906_075427" title="my given mother takes revenge" src="https://github.com/irulanCorrino/irulanCorrino/assets/98284211/4e499224-d1bd-4207-86d0-76773c8184ae">
+</p>
+
+- it is still heat wave here, my room is next to balcony and my window faces East
+- i had demanded from my given mother on sun screens installation at all balcony windows in July[?] when the heat wave was at the rise
+- this morning i have woke up after 1h20m of sleep [i drink a lot of water during a night]
+- yesterday at morning i had asked my given mother to shut the window[^5]
+- this morning she has removed the sun screens from movable windows in front of my room’s window
+- she does such things intentionally when finding my vulnerabilities
+- she hates me since my birth, that is why i consider her a surrogate mother even if i am her daughter biologically
+- she insisted i need sex‑reassignment surgery when i was a child and after then she did not believed i’m a woman when i was tested in my school at thirteen [or fourteen] years old
+- the genetic test revealed i am not a boy, probably it was a nation‑wide screening in post‑Soviet Ukraine; the results were announced before whole our class, probably they also announced i am infertile [maybe they had sampled the semen first, i do not remember]
+- they were like "you were told there are 14 boys and 15 girls in your class; it isn’t so, there is one more girl in your class, so the class consists of 13 boys and 16 girls —[my_name] is a girl."
+- i have managed to recall this segment of memory a month ago
+- i had married a boy after that genetic screening, it lasted but not for long —we were forbidden from meeting one another after the school because my given parents had tried to comply with local people who had gotten severe communist frustration from our marriage
+- the sleep is destroyed, so i am re‑entereing a dothe
+
+
+
 ---
 - 📫 How to reach me ?.. :D oh it is REALLY difficult --i dedicate most of my time to learning and performing music so i have virtually no time to socialising...
 ---
@@ -195,6 +217,7 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 [^2]: those two features are destructive to human species but are required for a survival of my biological species, gethenians, i may add another trait [i suspect i have it myself] —`[Volkswagen]` VW syndrome
 [^3]: root: Human ['Love'] species
 [^4]: i was developing other scheme [sic] of genetic trait encoding years ago, but had stopped since because of difficulty to do things like associating 3D‑blindness with blocked anandamide‑reducing ferment expression and VW‑syndrome or associating bioluminescent eye color with albeno hair
+[^5]: i use Google Translator for several months since my given father had beaten me after her provocation again
 <!---
 irulanCorrino/irulanCorrino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
