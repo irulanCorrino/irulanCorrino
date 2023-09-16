@@ -207,8 +207,16 @@ i just want clean neo-baroque code and full integration of GUI with the logic.
 - i have managed to recall this segment of memory a month ago
 - i had married a boy after that genetic screening, it lasted but not for long —we were forbidden from meeting one another after the school because my given parents had tried to comply with local people who had gotten severe communist frustration from our marriage
 - the sleep is destroyed, so i am re‑entereing a dothe
+#### 16th of September, 15.16
 
+https://github.com/irulanCorrino/irulanCorrino/assets/98284211/3af18ae8-7af6-437a-abef-457e7599e884
 
+- it is not a proof; i am aware of all the gigantic libel and lie spread under a disguise of scientific facts
+- i have very vivid visionary; at least for some two years i had a violent delusionary imagery of Quantum Disassembling Matrix, a living distributed machine used to mould [3D‑print&reprint] humans into ANY shape [she was a bunch of dispersed everywhere fullerenes with concentrated active centers drying and then reprinting people] 
+- it is not a proof; i may have the semen but studies saying that 46,XX+SRY persons NEVER have it simply do lie intentionally to break me [it is the easiest way for our adversaries to knock off my knowledge about myself]
+- i have a very real visionary; in very distant future i live on glaciated planet in a system of another star [Sirius, or maybe that blue star (LBV 1806‑20), i do not even know]; i have born twelve black children all inheriting my dominant traits of 3D‑blindness, chill‑resistant blood (lowered clotting ability, VW‑syndrome), high stature and quality being naturally high (insensitive to pain because of anandamide persistence), who were sired by my six white kemmerings; before conceiving their own offspring my children moved to Andromeda galaxy with their groups
+- there is no death of aging, no amnesia of ever living
+- wherever far Universe other biological species of men go there are Ynnwn already present, the rarest species, sirens living near a double star [probably] in a glaciated world
 
 ---
 - 📫 How to reach me ?.. :D oh it is REALLY difficult --i dedicate most of my time to learning and performing music so i have virtually no time to socialising...
