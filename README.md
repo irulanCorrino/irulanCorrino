@@ -1,27 +1,33 @@
 - 👋 Hi, I’m @irulanCorrino
-<img align="right" width="18%" alt="2023-08-13 13.48.16 my given mother is an interior designer" title="you must write ONLY (!) clean code [my given mother designed this bathroom]" src="https://github.com/irulanCorrino/irulanCorrino/assets/98284211/63f7aaed-5827-4919-8439-0a8e5cb1f3ee">
 
+<img align="right" width="60%" alt="" title="you miss ONLY eusexua" src="https://github.com/user-attachments/assets/e6770096-6116-44b4-b424-8f5355d5a23b">
+
+- and i'm done with Wikipedia
 - 👀 I’m interested in audio production & performance tools.
 - i am with 3D-blindness so i mostly use my hearing for spatial orientation
 and identifying objects or events.
-> ```
-> when i was fifteen or fourteen there was gym class in our school
-> and the teacher was devoted to sport games --he had organized
-> a football and a basketball courses for an entire class and those
-> ones not having medical condition were required to participate
-> in a game course of choice. i had enrolled to basketball course
-> after my best friend was fascinated with the game [he had enrolled to
-> both games]. SOONLY my best friend had revealed that i am unable
-> to catch the ball --i was even unaware of such an apt.
-> then I WAS REQUIRED to play in awkward centimeter-thick glasses
-> but even if it had limited my ability to move my head and to move
-> quickly it was not a remedy --my bestie immediately PROVED that
-> i am unable to catch it and he did it with AN EASE.
-> BUT i was the only pupil receiving highest mark for throwing exercise!
-> i threw it into the basket from any point time after time --i was even
-> better than my bestie BUT HE WAS THE CAPTAIN [of both teams].
-> and i was unable to do it while being moving!!!
-> ```
+
+---
+
+ when i was fifteen or fourteen there was gym class in our school
+ and the teacher was devoted to sport games --he had organized
+ a football and a basketball courses for an entire class and those
+ ones not having medical condition were required to participate
+ in a game course of choice. i had enrolled to basketball course
+ after my best friend was fascinated with the game [he had enrolled to
+ both games]. SOONLY my best friend had revealed that i am unable
+ to catch the ball --i was even unaware of such an apt.
+ then I WAS REQUIRED to play in awkward centimeter-thick glasses
+ but even if it had limited my ability to move my head and to move
+ quickly it was not a remedy --my bestie immediately PROVED that
+ i am unable to catch it and he did it with AN EASE.
+ BUT i was the only pupil receiving highest mark for throwing exercise!
+ i threw it into the basket from any point time after time --i was even
+ better than my bestie BUT HE WAS THE CAPTAIN [of both teams].
+ and i was unable to do it while being moving!!!
+ 
+---
+
 - i am unable to remember or even to recognise faces ...even faces of ones i vowed of kemmer with.
 - i am a soprano singer had undergone a mutation to the contralto voice [in one very very sad day].
 - i am able to imitate any [female, naturally] voice both for spoken and sung positions.
