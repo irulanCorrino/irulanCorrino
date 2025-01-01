@@ -4,8 +4,12 @@
 
 - and i'm done with Wikipedia
 - 👀 I’m interested in audio production & performance tools.
-- i am with 3D-blindness so i mostly use my hearing for spatial orientation
-and identifying objects or events.
+- i am with 3D-blindness so i mostly use my hearing for spatial orientation and identifying objects or events.
+- if you are wondering what causes your suffering from insensetivity of society around you --`proletarians are parasits`
+  - no more commerce; no more exploitation; no patriarchy --no school teachers, no teachers as a speciality --it is a pariarchal abuse
+  - patriarchy promoters ("teachers") never care that some person may need `the most detailed explanation is possible` and patriarchal consumerism does not care if an artisan needs decades to learn the craft thoroughly
+  - educators of dangerous crafts must account that some persons are incapable to feel the pain so are more vulnerable to doing an unintentional self-harm
+  - eventually, as a result of expansionism, consumerist lifestyle will collapse --people hunting new posessions will be ridiculously futile in their own eyes when `the best trait declared is a creativity`, and there are literally thousands of worlds already and their number is ever increasing
 
 ---
 
