@@ -6,7 +6,7 @@
 - 👀 I’m interested in audio production & performance tools, yet in interface design and in the progress of UI paradigms
 - i am with 3D-blindness so i rely on my enhanced color sense and yet for spatial orientation and identifying objects or events i heavily use my hearing
 - i am an [anarchist](https://github.com/irulanCorrino/eggnog-dominance/blob/main/diary-of-siren/08-diary-of-a-siren.md) and i feel for Yeshua, the Messiah, blessed by Her-Maker; while being born into human species i represent different from humans species called [Ynnwn or "Rhythm"](https://github.com/irulanCorrino/thoaishis)
-- if you are wondering what causes your suffering from insensetivity of society around you --`proletarians are parasits`
+- if you are wondering what causes your suffering from insensitivity of society around you --`proletarians are parasits`
   - no more commerce; no more exploitation; no patriarchy --no school teachers, no teachers as a speciality --it is a patriarchal abuse
   - patriarchy promoters ("teachers") never care that some person may need `the most detailed explanation is possible` and patriarchal consumerism does not care if an artisan needs decades to learn the craft thoroughly
   - educators of dangerous crafts must account that some persons are incapable to feel the pain so are more vulnerable to doing an unintentional self-harm
